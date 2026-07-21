@@ -9,3 +9,9 @@ Edad,Genero,Estatura_(cm),Calzado,Longitiud_del_pie_(mm)
 46,Masculino,186,30,297
 21,Masculino,167,27,273
 23,Masculino,176,27,272
+21,Femenino,167,24,246
+22,Masculino,176,26,255
+42,Femenino,154,23,234
+16,Femenino,155,23,235
+21,Masculino,172,27,265
+22,Masculino,170,25,251
